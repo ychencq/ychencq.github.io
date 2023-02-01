@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yifei Chen"
+  name             : "Yifei  Chen"
   avatar           : "profile.png"
   bio              : "AI engineer @ Huawei"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "cyf AT ucla DOT edu
+  email            : "cyf AT ucla DOT edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
