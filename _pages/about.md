@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Yifei Chen's Homepage"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome
 ======
 I am an AI researcher at Huawei. My research interest is currently in computer vision and multi-modal learning.
